@@ -9,3 +9,9 @@
 <h1 align="center">TeraByte Harvesters 🌱</h2>
 
 -----
+<p align="center">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TerabyteHarvester/TerabyteHarvester">
+  <img alt="Followers" src="https://img.shields.io/github/followers/TerabyteHarvester?style=social">
+  <img alt="Total Stars" src="https://img.shields.io/github/stars/TerabyteHarvester?style=social">
+  <img src="https://komarev.com/ghpvc/?username=TerabyteHarvester&color=green">
+</p>
