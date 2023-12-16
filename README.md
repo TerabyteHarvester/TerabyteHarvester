@@ -20,6 +20,7 @@
                │⇒ Future project
                │     └──⇒ 🪴 - [ "Devops engineer" ]
                └⇒ Speciality [ "digital and computer sciences" ]
+‎ 
 ```
 
 <h3 align="left">Piwi's Languages and Tools:</h3>
@@ -33,8 +34,9 @@
   Harvesters@MUMU:~│⇒ Website Link
                │     └──⇒ 🍄 - [ "soon" ]
                │⇒ Future project
-               │     └──⇒ 🍄 - [ "Devops engineer", "network administrator" ]
+               │     └──⇒ 🍄 - [ "Devops engineer" ]
                └⇒ Speciality [ "Information Systems and Digital" ]
+‎ 
 ```
 
 <h3 align="left">MUMU's Languages and Tools:</h3>
